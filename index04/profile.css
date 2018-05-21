@@ -1,0 +1,108 @@
+.x{position: absolute;
+    top: 0%;
+    width: 100%;
+    opacity: 0.6
+    
+    
+}
+
+.z{position: absolute;
+    top: 0%;
+    left: 0%;
+    opacity: 0.5;
+}
+
+.c{position: absolute;
+    top: 0%;
+    left: 26%;
+    opacity: 0.48;
+    
+}
+
+.v{position: absolute;
+    right: 0%;
+    bottom: 0%;
+    opacity: 0.5;
+    }
+
+.b{position: absolute;
+    top: 50%;
+    left: 0%;
+    opacity: 0.4;
+    
+}
+
+
+
+.n{position: absolute;
+    top: 0%;
+    right: 0%;
+    opacity: 0.4;
+    
+}
+
+
+.m{position: absolute;
+    top: 27%;
+    left: 10%;
+    opacity: 0.9;
+    box-shadow: 10px 17px 15px -7px;
+    
+}
+    
+    
+    
+
+.d{position: absolute;
+    top: 30%;
+    left: 45%;
+    text-shadow: 10px 15px 9px ;
+}
+
+
+
+.p{position: absolute;
+    top: 7%;
+    right: 6%;
+    opacity: 0.9;
+    text-shadow: 10px 15px 9px;
+}
+    
+a{ text-decoration:none;
+    color: black;
+}
+
+a:hover{
+    color: mediumpurple;
+}
+.q{position: absolute;
+    top: 40%;
+    left: 50%;
+    
+    text-shadow: 10px 15px 9px;
+}
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}
+
+

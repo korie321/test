@@ -1,0 +1,28 @@
+.abc{opacity: 0.99;
+    
+    }
+
+
+    
+.x {position: absolute;
+    top: 0%;
+    width: 100%;
+    opacity: 0.70;
+    
+}
+
+
+.b{position: absolute;
+    top: 7%;
+    right: 6%;
+    opacity: 0.8;
+     text-shadow: 10px 15px 9px;
+}
+
+a{ text-decoration:none;
+    color: black;
+}
+
+a:hover{
+    color: mediumpurple;
+}
